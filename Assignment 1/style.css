@@ -1,0 +1,29 @@
+/* 1) Element Selector */
+p{
+    color: gray;
+}
+
+/* 2) ID Selector */
+#main-heading{
+    color: blue;
+}
+
+/* 3) Class Selector */
+.into{
+    color: green;
+}
+
+/* 4) Class Selector */
+.box {
+    color: brown;
+}
+
+/* 5) Group Selector */
+h1, h2 {
+    color: purple;
+}
+
+/* 6) Descendant Selector (Combination Selector) */
+.box p{
+    color: red;
+}
